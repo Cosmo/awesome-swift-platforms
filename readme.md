@@ -1,4 +1,4 @@
-# Embedded Swift [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Swift On … [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of Swift on different platforms.
 
